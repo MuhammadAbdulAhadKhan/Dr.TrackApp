@@ -65,10 +65,10 @@
 
 ## 📅 Roadmap / Future Updates
 
-- Real hardware button press detection for triggering emergencies
-- Automatic emergency calls and ambulance dispatch
-- Backend integration for real-time tracking and data logging
-- UI enhancements and additional language support
+- 🎯 Detect real hardware button triggers (power, volume)
+- ☎️ Direct emergency calling & ambulance dispatch
+- 🌐 Firebase backend integration for tracking/logging
+- 🌍 Multilingual UI and enhanced UX design
 
 ---
 
@@ -84,3 +84,4 @@ Thank you for trying DR.Track! Your safety is our priority.
 
 **Developed with ❤️ using Flutter**
 
+![DR TRACK](https://github.com/user-attachments/assets/db03cf17-9d40-42e2-9c60-be6a7754c189)
