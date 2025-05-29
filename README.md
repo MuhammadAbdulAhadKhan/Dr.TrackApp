@@ -1,4 +1,4 @@
-# 📱 DR.Track - Smart Emergency Lifeline
+# 📱 DR.Track - Smart Emergency Lifeline Beta Version
 
 **DR.Track** is a Flutter-based emergency alert app designed to provide fast assistance in critical situations such as mobile snatching, female safety threats, and medical emergencies. The app uses quick trigger actions (like triple button presses) to capture essential information and notify emergency contacts immediately.
 
